@@ -1,0 +1,3 @@
+class Magazine < Product
+
+end
