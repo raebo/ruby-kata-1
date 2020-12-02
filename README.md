@@ -1,5 +1,22 @@
 # README
 
+
+# setup
+
+rails db:setup
+
+rails s
+
+open your browser
+
+
+
+
+
+# Task description
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
